@@ -12,7 +12,7 @@ Hi there! I'm a postdoctoral researcher studying how gene regulation is encoded 
 
 # Current research
 
-Human DNA contains genes that provide instructions for making proteins essential for life. However, genes alone aren't enough – they need switches that control when and where they turn on or off. These switches -special DNA regions - called enhancers can turn genes on and off when needed. When enhancers malfunction due to genetic changes, it can lead to disease. In fact, 91% of disease-related genetic variations occur outside of gene regions and are found more than expected by chance in these enhancer regions. 
+Human DNA contains genes that provide instructions for making proteins that are essential for life. However, genes alone aren't enough – they need switches that control when and where they turn on or off. These switches -special DNA regions - are called enhancers. When enhancers malfunction due to genetic changes, it can lead to disease. In fact, 91% of disease-related genetic variations occur outside of gene regions and are found more than expected by chance in these enhancer regions. 
 
 Yet, we are currently lacking the deep understanding of enhancers activity to interpret how genetic variation in enhancers affect our health. 
 
